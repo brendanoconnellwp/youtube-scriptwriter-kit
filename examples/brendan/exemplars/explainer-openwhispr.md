@@ -1,0 +1,33 @@
+# Openwhispr - Free Open Source WisprFlow Alternative that Runs Locally
+Views: 6,974 · Format: explainer · Captions lightly cleaned (timestamps and "uh/um" removed)
+Why it's here: the "open source alternative to a paid tool" frame; channel-best 10.5% CTR and 34% avg viewed in 7 minutes.
+
+What's going on everyone? I wanted to share another open-source project that I've been enjoying using. If you've been using something like WisprFlow or MacWhisper, this is an open-source alternative to that that you can actually run completely free on your local computer without paying for a subscription, called OpenWhispr. This is something you can download and run a model locally on your computer and not actually pay for the subscription. So, although they have a pricing page, you can actually run the always-free version using local AI models. So, I'll show you how to set that up and what that looks like.
+
+So, this is something you can, again, type in here and go, you know, "What are some alternatives to WisprFlow?" And it'll just, you know, it'll work, right? It's as quick as WisprFlow. It seems to clean up the, you know, ums and ahs in your speech. And it seems to me it works great. So, this is something I've been running for a couple weeks and I've been liking it a lot.
+
+You can also, if you don't want to download the local AI models, you also can just run it on their cloud and you get 2,000 words per week for free, which I don't... That might be the same as WisprFlow. I can't remember. I haven't looked at WisprFlow in a while. Let's check it out real quick. What's WisprFlow's... Let's go to WisprFlow pricing. Not sell my info. Pricing. They also give you 2,000 words a week. But, I don't believe you can run this locally. So, the, the pricing's also better if you want to pay for their cloud subscription.
+
+But, you can get a bunch of features basically beyond just dictation. You can run it kind of like Granola where you can have it in a, a... and it will get meeting notes and summary. So it's almost AI note-taker as well. So, a lot of different features that you can use here.
+
+I'll pull up the app here. But this also works in sort of any terminal as well. So, if I open up this, I can be like, what's the weather like in San Diego? And you know, it works in terminals. It works in basically any text input. So, it's just, you know, processes it super quickly. Awesome. You can't check. There you go.
+
+But yeah, let's pull up the app real quick and there's a running log of all the, the all the various things that I've chatted into it. You get, you get stuff like chat where you can upload chats, you can upload your notes. That's like Granola. You can upload here's... Oh, I guess these are the, the models here. So, I have local models here. So, I have, I've downloaded an Open... OpenAI local model. So, this model's just, looks like 1.4 GB that I've downloaded locally, that I've downloaded locally onto my computer. So, that's how I'm able to not actually pay for anything. Super useful.
+
+If you don't want to use OpenAI, you can use Nvidia's models. You've got two ones here. You can just download these locally. They're all pretty small models. So, you can just run these locally. You don't even need an API key or anything like that. So, you can download these and I do, any, I do enable the GPU acceleration. That makes it even faster.
+
+But you can also just upload audio directly in here and it will give you transcriptions of it. You can do things like add words to your dictionary if you say, you know, particular words that get misspelled and you want those in there, you can do that. And there's some integrations, so you can connect it to your Google Calendar, so it will join meetings for you. You can add API keys, and you can add your own AI tools. So, lots of cool stuff here.
+
+There's even a CLI. This is even, I think this is new since the last time I even opened this app. So, they are actively developing it. It's only got 3,000 GitHub stars, so it's not a huge project right now, but it's growing. I think it was like only 1,000 GitHub stars a couple weeks ago.
+
+But I'll just open up the settings here real quick. Again, I'm on, I don't, I'm just on the free plan. And so, you can see it's not even counting the 2,000 words that I use. It's just basically, I don't even, it doesn't even count against my limit there because I'm running a local model.
+
+So, we've got some preferences here in terms what your shortcuts are. You can do automatic pasting of words and audio detection. You can change what mic you're using. You can, all the kind of normal stuff that you want. Change your hot key, tap or hold, all the kind of stuff you'd expect from an app like this.
+
+Then you have the models, right? So, you can run, run it on their cloud, you can run it on other cloud providers with an API key, or you can just do local models, so it's fully private. You're not sending your data out. That's kind of important for a lot of people, so that's one of the reasons I wanted that. You can also, you know, use it, do... I guess you can use self-hosted now. That, that's also new. So, again, I'm just, I'm just using this model here. I think you can pretty much get away with this small model, and it should be enough to be able to process audio.
+
+That's also a new option. Live transcription preview. Show transcription in a floating window before clean up. That's kind of cool. Then yeah, we got some language model detection here. We've got detection, clean up, voice agents. Yeah, this is all, this is all new stuff since the last time I opened the app. So, it's definitely being actively developed and changes are being pushed pretty regularly. So. Lots of different stuff.
+
+I'm not really going to go into all the various features here. Just wanted to make a quick one to give you a taste of just an open-source alternative that, you know, if you don't want to have another subscription. We all have too many subscriptions, I think. This is a, a nice alternative to WisprFlow that you know, you can just run locally and not have to pay for anything and not have to even pay for API credits. So. And also, you know, protect your own data. That's a, a big, big one these days. So. You can come in here and check out the privacy and data policies and things like that, but yeah, that's basically all I wanted to show you in this one.
+
+And yeah, that's it. Probably a bunch more stuff in here that I'm missing, but you know, can't cover everything. Anyway. What do you think? Are you guys using something like this? I didn't really demo it, the actual tool that much, but it works. What can I say? It works. See you in the next one. See you.

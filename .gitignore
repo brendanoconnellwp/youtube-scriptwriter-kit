@@ -1,0 +1,5 @@
+# Other creators' transcripts are for local analysis only; don't commit or share them.
+data/research/
+dist/
+.DS_Store
+__pycache__/

@@ -1,0 +1,6 @@
+# Creators to study for the playbook. One @handle (or channel URL) per line.
+# Pick 5 to 10: a few in your lane, a few in the lane you're moving into,
+# and one or two outside your niche who are simply great at structure and hooks.
+#
+# Paste handles from their channel pages (youtube.com/@handle).
+# Their transcripts stay local in data/research/ and are used for patterns only.
